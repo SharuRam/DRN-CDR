@@ -23,3 +23,12 @@ This paper proposes a regression method using Deep ResNet for CDR (DRN-CDR) pred
 
  * run_DRNCDR.py - Run the main file to implement the model.
  * model.py - Model for drug response prediction.
+   
+**Link to the Published Paper : DRN-CDR**
+
+[Click here to read the paper](https://www.sciencedirect.com/science/article/pii/S1476927124001634)
+
+**Cite this paper**
+
+* Saranya, K. R., & Vimina, E. R. (2024). DRN-CDR: A cancer drug response prediction model using multi-omics and drug features. Computational biology and chemistry, 112, 108175. https://doi.org/10.1016/j.compbiolchem.2024.108175
+   
